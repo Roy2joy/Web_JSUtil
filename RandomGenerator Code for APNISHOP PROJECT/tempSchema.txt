@@ -1,0 +1,82 @@
+----------------------------supplier 
+       public string SupplierID { get; set; }
+
+        public string BusinessName {get; set;}
+
+        public string BusinessDescription { get; set; }
+
+        public string BusinessAddress { get; set; }
+
+        public string BusinessWebsite { get; set; }
+
+        public string BusinessEmail { get; set; }
+
+        public string BusinessContact { get; set; }
+
+
+------------------------product catalogue
+	public string ProductID { get; set; }
+
+        public string Title { get; set; }
+
+        public string SupplierID { get; set; }
+
+        public string Category { get; set; }
+    
+
+-------------------product
+	public string ProductID { get; set; }
+
+        public int BatchNumber { get; set; }
+
+        public string Description { get; set; }
+
+        public int AvailableStock { get; set; }
+
+        public int Demand { get; set; }
+
+        public int Rate { get; set; }
+        
+        public float UnitPrice { get; set; }
+        public string ImageUrl { get; set; }
+
+        public string VideoUrl { get; set; }
+
+
+
+
+
+------------------------------------------------------------------
+        //attributes from product
+        public string ProductID { get; set; }
+        public int BatchNumber { get; set; }
+
+        public string Description { get; set; }
+
+        public int AvailableStock { get; set; }
+
+        public int Demand { get; set; }
+
+        public int Rate { get; set; }
+
+        public float UnitPrice { get; set; }
+        public string ImageUrl { get; set; }
+
+        public string VideoUrl { get; set; }
+
+
+        //attrbutes from product catalogue
+        public string Title { get; set; }
+
+        public string Category { get; set; }
+
+
+        //attributes from supplier
+
+        public string BusinessName { get; set; }
+
+        public string BusinessDescription { get; set; }
+
+        public string BusinessWebsite { get; set; }
+
+        public string BusinessEmail { get; set; }

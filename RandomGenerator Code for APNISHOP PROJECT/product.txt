@@ -1,0 +1,251 @@
+Product tempData31 = new Product()
+{
+ProductID = "S210003",
+BatchNumber = 1,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData31);
+context.SaveChanges();
+
+Product tempData32 = new Product()
+{
+ProductID = "S210003",
+BatchNumber = 2,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData32);
+context.SaveChanges();
+
+Product tempData33 = new Product()
+{
+ProductID = "S210003",
+BatchNumber = 3,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData33);
+context.SaveChanges();
+
+Product tempData41 = new Product()
+{
+ProductID = "S210004",
+BatchNumber = 1,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData41);
+context.SaveChanges();
+
+Product tempData42 = new Product()
+{
+ProductID = "S210004",
+BatchNumber = 2,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData42);
+context.SaveChanges();
+
+Product tempData43 = new Product()
+{
+ProductID = "S210004",
+BatchNumber = 3,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData43);
+context.SaveChanges();
+
+Product tempData51 = new Product()
+{
+ProductID = "S210005",
+BatchNumber = 1,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData51);
+context.SaveChanges();
+
+Product tempData52 = new Product()
+{
+ProductID = "S210005",
+BatchNumber = 2,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData52);
+context.SaveChanges();
+
+Product tempData53 = new Product()
+{
+ProductID = "S210005",
+BatchNumber = 3,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData53);
+context.SaveChanges();
+
+Product tempData61 = new Product()
+{
+ProductID = "S210006",
+BatchNumber = 1,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData61);
+context.SaveChanges();
+
+Product tempData62 = new Product()
+{
+ProductID = "S210006",
+BatchNumber = 2,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData62);
+context.SaveChanges();
+
+Product tempData63 = new Product()
+{
+ProductID = "S210006",
+BatchNumber = 3,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData63);
+context.SaveChanges();
+
+Product tempData71 = new Product()
+{
+ProductID = "S210007",
+BatchNumber = 1,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData71);
+context.SaveChanges();
+
+Product tempData72 = new Product()
+{
+ProductID = "S210007",
+BatchNumber = 2,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData72);
+context.SaveChanges();
+
+Product tempData73 = new Product()
+{
+ProductID = "S210007",
+BatchNumber = 3,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData73);
+context.SaveChanges();
+
+Product tempData81 = new Product()
+{
+ProductID = "S210008",
+BatchNumber = 1,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData81);
+context.SaveChanges();
+
+Product tempData82 = new Product()
+{
+ProductID = "S210008",
+BatchNumber = 2,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData82);
+context.SaveChanges();
+
+Product tempData83 = new Product()
+{
+ProductID = "S210008",
+BatchNumber = 3,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData83);
+context.SaveChanges();
+
+Product tempData91 = new Product()
+{
+ProductID = "S210009",
+BatchNumber = 1,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData91);
+context.SaveChanges();
+
+Product tempData92 = new Product()
+{
+ProductID = "S210009",
+BatchNumber = 2,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData92);
+context.SaveChanges();
+
+Product tempData93 = new Product()
+{
+ProductID = "S210009",
+BatchNumber = 3,
+Demand = 3,
+AvailableStock =2000,
+UnitPrice=200,
+Rate=4
+};
+context.Product.Add(tempData93);
+context.SaveChanges();

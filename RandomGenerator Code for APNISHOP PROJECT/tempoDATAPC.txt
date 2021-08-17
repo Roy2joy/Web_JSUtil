@@ -1,0 +1,69 @@
+ProductCatalogue tempData3 = new ProductCatalogue()
+{
+ProductID = "S210003",
+Title = "GraphicCard",
+Category = "Digital",
+SupplierID = "S210003"
+};
+context.ProductCatalogue.Add(tempData3);
+context.SaveChanges();
+
+ProductCatalogue tempData4 = new ProductCatalogue()
+{
+ProductID = "S210004",
+Title = "Touchpad",
+Category = "Electronic",
+SupplierID = "S210004"
+};
+context.ProductCatalogue.Add(tempData4);
+context.SaveChanges();
+
+ProductCatalogue tempData5 = new ProductCatalogue()
+{
+ProductID = "S210005",
+Title = "SSD",
+Category = "Electronic",
+SupplierID = "S210005"
+};
+context.ProductCatalogue.Add(tempData5);
+context.SaveChanges();
+
+ProductCatalogue tempData6 = new ProductCatalogue()
+{
+ProductID = "S210006",
+Title = "HDD",
+Category = "Digital",
+SupplierID = "S210006"
+};
+context.ProductCatalogue.Add(tempData6);
+context.SaveChanges();
+
+ProductCatalogue tempData7 = new ProductCatalogue()
+{
+ProductID = "S210007",
+Title = "Charger",
+Category = "Computer",
+SupplierID = "S210007"
+};
+context.ProductCatalogue.Add(tempData7);
+context.SaveChanges();
+
+ProductCatalogue tempData8 = new ProductCatalogue()
+{
+ProductID = "S210008",
+Title = "Processor",
+Category = "Digital",
+SupplierID = "S210008"
+};
+context.ProductCatalogue.Add(tempData8);
+context.SaveChanges();
+
+ProductCatalogue tempData9 = new ProductCatalogue()
+{
+ProductID = "S210009",
+Title = "GamePad",
+Category = "Electronic",
+SupplierID = "S210009"
+};
+context.ProductCatalogue.Add(tempData9);
+context.SaveChanges();
